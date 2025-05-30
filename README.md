@@ -12,17 +12,17 @@ This project demonstrates MongoDB CRUD operations, advanced queries, aggregation
 - `queries.js` – Script to run various MongoDB queries and aggregation operations.
 - Screenshots:
   - `insert_books.png`  
-    ![Insert Books Screenshot](./insert_books.png)
+    ![Insert Books Screenshot](./insert_books.PNG)
   - `books.png`  
-    ![Books in Compass](./books.png)
+    ![Books in Compass](./books.PNG)
   - `query1.png`  
-    ![Query 1 Output](./query1.png)
+    ![Query 1 Output](./query1.PNG)
   - `query2.png`  
-    ![Query 2 Output](./query2.png)
+    ![Query 2 Output](./query2.PNG)
   - `query3.png`  
-    ![Query 3 Output](./query3.png)
+    ![Query 3 Output](./query3.PNG)
   - `aggregation.png`  
-    ![Aggregation Output](./aggregation.png)
+    ![Aggregation Output](./aggregation.PNG)
 
 ---
 
