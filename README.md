@@ -9,11 +9,20 @@ This project demonstrates MongoDB CRUD operations, advanced queries, aggregation
 ## 📂 Files Included
 
 - `insert_books.js` – Script to insert sample books into the MongoDB collection.
-- `queries.js` – Contains various MongoDB queries and operations.
-- `insert_books.PNG` – Screenshot showing successful data insertion in the terminal.
-- `books.PNG` – Screenshot showing inserted documents in MongoDB Compass.
-- `query1.PNG`, `query2.PNG`, `query3.PNG` – Screenshots of advanced queries.
-- `aggregation.PNG` – Screenshot of an aggregation pipeline.
+- `queries.js` – Script to run various MongoDB queries and aggregation operations.
+- Screenshots:
+  - `insert_books.png`  
+    ![Insert Books Screenshot](./insert_books.png)
+  - `books.png`  
+    ![Books in Compass](./books.png)
+  - `query1.png`  
+    ![Query 1 Output](./query1.png)
+  - `query2.png`  
+    ![Query 2 Output](./query2.png)
+  - `query3.png`  
+    ![Query 3 Output](./query3.png)
+  - `aggregation.png`  
+    ![Aggregation Output](./aggregation.png)
 
 ---
 
