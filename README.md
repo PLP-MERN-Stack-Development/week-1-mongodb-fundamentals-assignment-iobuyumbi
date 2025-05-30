@@ -1,4 +1,59 @@
+# Week 1 - MongoDB Fundamentals Assignment
+
+## 📚 Project: PLP Bookstore
+
+This project demonstrates MongoDB CRUD operations, advanced queries, aggregation pipelines, and indexing. It is part of the **Power Learn Project (PLP) - MERN Stack Development Program**.
+
+---
+
+## 📂 Files Included
+
+- `insert_books.js` – Script to insert sample books into the MongoDB collection.
+- `queries.js` – Contains various MongoDB queries and operations.
+- `insert_books.png` – Screenshot showing successful data insertion in the terminal.
+- `books.png` – Screenshot showing inserted documents in MongoDB Compass.
+- `query1.png`, `query2.png`, `query3.png` – Screenshots of advanced queries.
+- `aggregation.png` – Screenshot of an aggregation pipeline.
+
+---
+
+## 🏗️ Database Setup
+
+- **Database Name**: `plp_bookstore`
+- **Collection Name**: `books`
+- **Total Books Inserted**: 12
+
+---
+
+## 🚀 How to Run
+
+### Step 1: Insert Books into the Database
+
+1. **Ensure MongoDB is running locally** on `mongodb://localhost:27017`.
+2. Open your terminal in the project directory and run:
+
+   ```bash
+   node insert_books.js
+
+   ```
+
+### Step 2: Execute MongoDB Queries
+
+After inserting the books, run the queries to test **CRUD and aggregation operations**:
+
+```bash
+node queries.js
+
+```
+
+---
+
+# This below is the original instructions:
+
+---
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19665026&assignment_repo_type=AssignmentRepo)
+
 # MongoDB Fundamentals Assignment
 
 This assignment focuses on learning MongoDB fundamentals including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
@@ -6,6 +61,7 @@ This assignment focuses on learning MongoDB fundamentals including setup, CRUD o
 ## Assignment Overview
 
 You will:
+
 1. Set up a MongoDB database
 2. Perform basic CRUD operations
 3. Write advanced queries with filtering, projection, and sorting
@@ -44,4 +100,4 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
-- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
